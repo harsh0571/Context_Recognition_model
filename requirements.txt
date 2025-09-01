@@ -1,0 +1,11 @@
+streamlit
+streamlit-lottie
+ultralytics
+opencv-python
+pyttsx3
+SpeechRecognition
+transformers
+torch
+torchvision
+Pillow
+requests
