@@ -16,8 +16,8 @@
 See /app for modular components: UI, logic, vision (detection/captioning), audio (TTS/ASR), assets, and docs.
 
 ## Screenshots
-- ![screenshot](Context_Recognition_model/app/assets/screenshots/app_preview.png)
-- ![video](Context_Recognition_model/app/assets/screenshots/video.gif)
+- ![screenshot](app/assets/screenshots/app_preview.png)
+- ![video](app/assets/screenshots/video.gif)
 
 
 
